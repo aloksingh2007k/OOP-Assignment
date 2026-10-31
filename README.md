@@ -1,6 +1,6 @@
 # OOP Assignment
 
-A comprehensive repository containing all 11 Java Object-Oriented Programming (OOP) practical assignments, complete with source code, descriptions, and execution output screenshots.
+A comprehensive repository containing all 12 Java Object-Oriented Programming (OOP) practical assignments, complete with source code, descriptions, and execution output screenshots.
 
 <p align="center">
   <b>Quick Navigation:</b><br>
@@ -14,8 +14,7 @@ A comprehensive repository containing all 11 Java Object-Oriented Programming (O
   <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-8"><b>Practical 08</b></a> |
   <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-9"><b>Practical 09</b></a> |
   <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-10"><b>Practical 10</b></a> |
-  <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-11"><b>Practical 11</b></a>
-</p>
+  <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-11"><b>Practical 11</b></a> |`r`n  <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-12"><b>Practical 12</b></a>`r`n</p>
 
 ---
 
@@ -36,6 +35,7 @@ Click on any practical number or title below to directly open that practical in 
 | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-9"><b>Practical 09</b></a> | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-9">Student Registration Portal</a> | Full CRUD student management portal with CSV backend | <a href="https://github.com/aloksingh2007k/OOP-Assignment/blob/main/Practical-9/StudentRegistration.java"><code>StudentRegistration.java</code></a> |
 | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-10"><b>Practical 10</b></a> | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-10">Addition JavaBean</a> | Component-based development using Java Beans architecture | <a href="https://github.com/aloksingh2007k/OOP-Assignment/blob/main/Practical-10/AdditionBean.java"><code>AdditionBean.java</code></a>, <a href="https://github.com/aloksingh2007k/OOP-Assignment/blob/main/Practical-10/AdditionDemo.java"><code>AdditionDemo.java</code></a> |
 | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-11"><b>Practical 11</b></a> | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-11">Applet Login Form</a> | Interactive login interface built with Java Applet and AWT | <a href="https://github.com/aloksingh2007k/OOP-Assignment/blob/main/Practical-11/LoginApplet.java"><code>LoginApplet.java</code></a> |
+| <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-12"><b>Practical 12</b></a> | <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-12">Student CRUD Operations</a> | Full CRUD student portal with duplicate-check, RFC 4180 CSV & scrollable read dialog | <a href="https://github.com/aloksingh2007k/OOP-Assignment/blob/main/Practical-12/StudentCRUD.java"><code>StudentCRUD.java</code></a> |
 
 ---
 

@@ -14,7 +14,7 @@ A comprehensive repository containing all 12 Java Object-Oriented Programming (O
   <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-8"><b>Practical 08</b></a> |
   <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-9"><b>Practical 09</b></a> |
   <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-10"><b>Practical 10</b></a> |
-  <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-11"><b>Practical 11</b></a> |`r`n  <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-12"><b>Practical 12</b></a>`r`n</p>
+  <a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-11"><b>Practical 11</b></a> |<a href="https://github.com/aloksingh2007k/OOP-Assignment/tree/main/Practical-12"><b>Practical 12</b></a></p>
 
 ---
 
